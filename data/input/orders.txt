@@ -1,0 +1,7 @@
+1	Saumi	Class	200
+2	Saurabh	Pop	400
+3	Shreya	Pop	500
+4	Aditya	Jam	800
+5	Jimmy	Break	1000
+6	Dallas	Blues	1200
+7	Mike	Jazz	600
